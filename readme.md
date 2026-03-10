@@ -11,7 +11,10 @@ This repository contains a professional Excel-based Risk Assessment & managment 
 The tool follows a 5×5 Likelihood × Impact matrix methodology and is aligned with internationally recognized risk management standards. It is built to support cybersecurity programs, ISMS implementations, and enterprise risk governance frameworks.
 
 ---
+## Hold On !
+Unlike many commercial GRC tools, this model provides fully transparent risk calculation logic, allowing organizations to audit, customize, and defend their risk scoring methodology
 
+---
 ## Use it to: Address, Analize, Assess, Control and Manage Risks.
 No macros. No external dependencies. Fully transparent logic.
 
