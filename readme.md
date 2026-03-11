@@ -1,4 +1,4 @@
-# ISO-Aligned Risk Assessment & Managment Tool
+# ISO-Aligned Risk Assessment & Managment Toolkit
 ## Note:
 The file is read-only copy, if you need your own copy send me an email.
 ---
@@ -17,7 +17,7 @@ Unlike many commercial GRC tools, this model provides fully transparent risk cal
 ---
 ## Use it to: Address, Analize, Assess, Control and Manage Risks.
 * No macros. No external dependencies. Fully transparent logic.       
-* No Cloud. No Data Exposure. Full Control of Your Cybersecurity Risk Dataز
+* No Cloud. No Data Exposure. Full Control of Your Cybersecurity Risk Data.
 
 
 ---
@@ -40,7 +40,7 @@ Unlike many commercial GRC tools, this model provides fully transparent risk cal
   * Medium
   * High
   * Critical
-* Clear identification of out-of-appetite risks
+  * Clear identification of out-of-appetite risks
 
 ### 3. Executive Heatmap Visualization
 
